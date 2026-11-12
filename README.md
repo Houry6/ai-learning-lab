@@ -1,37 +1,62 @@
-# ai-learning-lab
-Progressive learning lab for Python, algorithms, software engineering, machine learning and deep learning fundamentals.
+# AI Learning Lab 🧪
 
-## About
+Welcome to **AI Learning Lab**, my personal workspace dedicated to exploring, learning and experimenting with Artificial Intelligence.
 
-This repository documents my progressive refresher in artificial intelligence foundations as a third-year AI student.
+This repository brings together my academic work, personal projects, practical exercises, experiments and implementations related to AI and its different fields.
 
-The goal is to build strong technical skills before specializing further in Natural Language Processing (NLP) and Computer Vision.
+It documents my learning journey, from fundamental concepts to more advanced techniques, while allowing me to build practical experience through coding and experimentation.
 
-## Learning roadmap
+## Objectives
 
-- Python programming and problem-solving
-- Algorithms and data structures
-- Functions, modules, object-oriented programming
-- Testing, debugging and code quality
-- Data manipulation with NumPy and pandas
-- Mathematical foundations for AI
-- Machine Learning fundamentals
-- Deep Learning fundamentals
-- Experimentation, evaluation and reproducibility
+- Strengthen my foundations in Artificial Intelligence.
+- Develop practical programming and problem-solving skills.
+- Understand and implement AI algorithms and models.
+- Explore different areas of AI through hands-on projects.
+- Document my experiments, technical choices and learning progress.
+- Build a collection of practical work that reflects my development over time.
 
-## Learning principles
+## Areas of Exploration
 
-For every project, I aim to:
+| Field | Topics |
+|---|---|
+| Machine Learning | Supervised and Unsupervised Learning |
+| Deep Learning | Neural Networks and Deep Learning Architectures |
+| Natural Language Processing | Text Processing, Word Embeddings and Language Models |
+| Computer Vision | Image Processing and Visual Recognition |
+| Mathematics for AI | Linear Algebra, Statistics and Probability |
+| Algorithms | Data Structures, Optimization and Problem Solving |
+| Applied AI | Robotics, Embedded Systems and Intelligent Applications |
 
-1. Understand the problem before coding.
-2. Explain my technical choices.
-3. Write and organize readable code.
-4. Test normal cases, edge cases and invalid inputs.
-5. Analyze errors and limitations.
-6. Document what I learned.
+## Repository Contents
 
-## Progress
+This repository is organized into different sections covering:
 
-This repository is a learning laboratory. Projects may be incomplete while I experiment, identify weaknesses and improve my understanding.
+- **Academic Work:** practical assignments, coursework and university projects.
+- **Experiments:** implementations, tests and explorations of AI concepts.
+- **Mini-Projects:** small applications developed to apply theoretical knowledge.
+- **Algorithms & Models:** implementations and comparisons of different approaches.
+- **Documentation:** technical notes, explanations and learning resources.
 
-My priority is understanding and autonomy, not merely completing projects.
+## Technologies & Tools
+
+The technologies and tools used in this repository will evolve as I progress in my learning journey.
+
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Visual Studio Code
+- Git & GitHub
+
+## Learning Philosophy
+
+My goal is not only to use existing libraries and models, but also to understand how they work.
+
+I aim to explore the theory behind the methods, implement concepts whenever possible, experiment with different approaches, evaluate results and document what I learn.
+
+This repository is a work in progress and will grow alongside my knowledge and experience.
+
+---
+
+**Status:** Continuously evolving 🚀
